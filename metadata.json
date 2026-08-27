@@ -1,0 +1,6 @@
+{
+  "name": "HikmaRisk - Diabetes Risk Predictor",
+  "description": "Production-ready diabetes risk assessment platform with offline rule-based scoring, online AI/SHAP explainability, clinical admin analytics, and user history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
